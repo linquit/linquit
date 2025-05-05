@@ -45,9 +45,6 @@
   <a href="https://e-z.bio/linquit">
     <img alt="Website" src="https://img.shields.io/badge/Website-e–z.bio/linquit-0A66C2?style=for-the-badge&logo=datadog&logoColor=white"/>
   </a>
-  <a href="https://t.me/linquit">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
   <a href="https://github.com/Linquit">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
