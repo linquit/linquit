@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Linquit 👋</h1>
+<h1 align="center">Linquit 🦄</h1>
 <p align="center">
   🧠 Python | 🌐 HTML | 🔧 Pawno<br>
   🚀 Разработчик и экспериментатор
