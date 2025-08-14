@@ -9,14 +9,14 @@
 ## 🛠️ Навыки и технологии
 
 ### Языки  
-<p>
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="Pawno" src="https://img.shields.io/badge/Pawno-Blue?style=for-the-badge&logo=none&logoColor=white"/>
 </p>
 
 ### Инструменты и технологии  
-<p>
+<p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
