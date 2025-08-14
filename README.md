@@ -23,20 +23,6 @@
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
-
----
-
-## 📊 Моя статистика GitHub
-
-<p align="center">
-  <a href="https://github.com/Linquit">
-    <img alt="Linquit’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Linquit&show_icons=true&theme=dark&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Linquit">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linquit&layout=compact&theme=dark&hide_border=true"/>
-  </a>
-</p>
-
 ---
 
 ## 🔗 Connect with me
